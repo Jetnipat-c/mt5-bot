@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+mt5linux
+pandas
+python-dotenv

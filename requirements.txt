@@ -1,5 +1,7 @@
 fastapi
 uvicorn[standard]
-mt5linux
+MetaTrader5
 pandas
+pandas_ta
+apscheduler
 python-dotenv
